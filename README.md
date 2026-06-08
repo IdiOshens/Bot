@@ -1,5 +1,5 @@
 
-# Zark-Bots - WhatsApp Bot (Created by Zark Bryan)
+# Iddelete-bot - WhatsApp Bot (Created by idi mbuga)
 
 Zark-Bots is a versatile WhatsApp bot built with Node.js, TypeScript, and Baileys, featuring a wide array of commands including AI chat, various tools, games, downloaders, and group management utilities.
 
